@@ -1,4 +1,4 @@
-# AI
+# A simple AI chatbot
 It's a project about a multifunctional chatbot.
 Create by TensorFlow from google.
   For machine vision: Cnn network
